@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\bin\Debug\Задание №1(Практика_граф).exe.config
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\bin\Debug\Задание №1(Практика_граф).exe
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\bin\Debug\Задание №1(Практика_граф).pdb
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\obj\Debug\Задание №1(Практика_граф).csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\obj\Debug\Задание__1_Практика_граф_.Form1.resources
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\obj\Debug\Задание__1_Практика_граф_.Properties.Resources.resources
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\obj\Debug\Задание №1(Практика_граф).csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\obj\Debug\Задание №1(Практика_граф).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\obj\Debug\Задание №1(Практика_граф).exe
+C:\Users\Acer\source\repos\Задание №1(Практика_граф)\obj\Debug\Задание №1(Практика_граф).pdb
