@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\bin\Debug\Zadanie_3.2(Graphics).exe.config
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\bin\Debug\Zadanie_3.2(Graphics).exe
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\bin\Debug\Zadanie_3.2(Graphics).pdb
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\obj\Debug\Zadanie_3.2(Graphics).csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\obj\Debug\Zadanie_3._2_Graphics_.Form1.resources
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\obj\Debug\Zadanie_3._2_Graphics_.Properties.Resources.resources
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\obj\Debug\Zadanie_3.2(Graphics).csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\obj\Debug\Zadanie_3.2(Graphics).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\obj\Debug\Zadanie_3.2(Graphics).exe
+C:\Users\Acer\source\repos\Zadanie_3\Zadanie_3.2(Graphics)\obj\Debug\Zadanie_3.2(Graphics).pdb
