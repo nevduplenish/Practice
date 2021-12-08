@@ -1,0 +1,12 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\bin\Debug\netcoreapp3.1\cZad5.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\bin\Debug\netcoreapp3.1\cZad5.deps.json
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\bin\Debug\netcoreapp3.1\cZad5.runtimeconfig.json
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\bin\Debug\netcoreapp3.1\cZad5.runtimeconfig.dev.json
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\bin\Debug\netcoreapp3.1\cZad5.dll
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\bin\Debug\netcoreapp3.1\cZad5.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\obj\Debug\netcoreapp3.1\cZad5.AssemblyInfoInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\obj\Debug\netcoreapp3.1\cZad5.AssemblyInfo.cs
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\obj\Debug\netcoreapp3.1\cZad5.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\obj\Debug\netcoreapp3.1\cZad5.dll
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\obj\Debug\netcoreapp3.1\cZad5.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\cZad5\cZad5\obj\Debug\netcoreapp3.1\cZad5.genruntimeconfig.cache

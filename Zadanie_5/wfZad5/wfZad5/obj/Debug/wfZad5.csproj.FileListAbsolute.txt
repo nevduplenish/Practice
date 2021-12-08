@@ -1,0 +1,10 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\bin\Debug\wfZad5.exe.config
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\bin\Debug\wfZad5.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\bin\Debug\wfZad5.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\obj\Debug\wfZad5.csprojAssemblyReference.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\obj\Debug\wfZad5.Form1.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\obj\Debug\wfZad5.Properties.Resources.resources
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\obj\Debug\wfZad5.csproj.GenerateResource.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\obj\Debug\wfZad5.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\obj\Debug\wfZad5.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\DenRogo\wfZad5\wfZad5\obj\Debug\wfZad5.pdb
