@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\bin\Debug\Zadanie 7.2(Graph).exe.config
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\bin\Debug\Zadanie 7.2(Graph).exe
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\bin\Debug\Zadanie 7.2(Graph).pdb
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\obj\Debug\Zadanie_7._2_Graph_.Properties.Resources.resources
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\obj\Debug\Zadanie 7.2(Graph).csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\obj\Debug\Zadanie 7.2(Graph).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\obj\Debug\Zadanie 7.2(Graph).exe
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\obj\Debug\Zadanie 7.2(Graph).pdb
+C:\Users\Acer\source\repos\Zadanie 7\Zadanie 7.2(Graph)\obj\Debug\Zadanie_7._2_Graph_.Form1.resources
